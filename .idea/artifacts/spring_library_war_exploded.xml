@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring_library:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_library_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring_library/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring_library" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 5.4.11-5.4.11" />
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="JAX-RS-2.1.1" />
+          <element id="file-copy" path="D:/files programming/mysql-connector-java-8.0.16.jar" />
+          <element id="library" level="project" name="org.apache.commons:commons-dbcp2:2.6.0" />
+          <element id="library" level="project" name="org.springframework:spring-webmvc:5.0.3.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

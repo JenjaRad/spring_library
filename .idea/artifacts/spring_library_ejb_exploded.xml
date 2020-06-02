@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="spring_library:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_library_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring_library/ejb/EJB" />
+      <element id="module-output" name="spring_library" />
+    </root>
+  </artifact>
+</component>
